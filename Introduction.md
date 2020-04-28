@@ -1,4 +1,5 @@
-######Important terminology for Networking######
+#Important terminology for Networking
+
 *IP Adresses.
 *MAC Addresses.
 *TCP, UDP, and the Three-Way Handshake.
